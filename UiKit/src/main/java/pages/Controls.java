@@ -5,9 +5,8 @@ import org.openqa.selenium.WebElement;
 
 public class Controls extends MobileAPI {
     public void clickBtns(){
-        WebElement btns = ad.findElementByTagName("Controls");
-        btns.click();
-        sleep(5);
+        clickByXpath("(//XCUIElementTypeStaticText[@name=\"AX error -25205\"])[4]");
+        sleepFor(5);
     }
 }
 

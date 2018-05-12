@@ -6,7 +6,7 @@ import pages.Controls;
 public class TestControls extends Controls{
 
     @Test
-    public void controlBtn(){
+    public void test2(){
         clickBtns();
     }
 }
