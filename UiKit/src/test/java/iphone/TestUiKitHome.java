@@ -1,3 +1,4 @@
+/*
 package iphone;
 
 import org.testng.annotations.Test;
@@ -12,3 +13,4 @@ public class TestUiKitHome extends UiKitHome {
         System.out.println("btns clicked ...");
     }
 }
+*/

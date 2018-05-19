@@ -1,3 +1,4 @@
+/*
 package mainAutomation;
 
 import base.MobileAPI;
@@ -10,3 +11,4 @@ public class Content extends MobileAPI {
     public void clickAssets(){
         text("Assets").click(); }
 }
+*/

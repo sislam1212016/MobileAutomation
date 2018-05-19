@@ -11,6 +11,8 @@
     <test name="GoToHomePage" preserve-order="true">
         <classes>
             <class name="testAutomation.TestSearchItems"/>
+            <class name="testAutomation.TestPatioAndGarden"/>
+
         </classes>
     </test>
 </suite>

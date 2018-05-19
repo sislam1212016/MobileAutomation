@@ -1,3 +1,4 @@
+/*
 package iphone;
 
 import org.testng.annotations.Test;
@@ -10,3 +11,4 @@ public class TestControls extends Controls{
         clickBtns();
     }
 }
+*/

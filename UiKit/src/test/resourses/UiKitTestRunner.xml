@@ -14,7 +14,7 @@
     <test name="GoToHomePage" preserve-order="true">
         <classes>
             <class name="iphone.TestUiKitHome"/>
-            <class name="iphone.TestControls"/>
+            <!--<class name="iphone.TestControls"/>-->
         </classes>
     </test>
 
